@@ -1,0 +1,7 @@
+
+
+https://github.com/Sir0ncy/UKK/blob/main/dacen.sh
+
+chmod +x dacen.sh
+
+./dacen.sh
