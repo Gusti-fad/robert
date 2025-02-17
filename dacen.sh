@@ -160,5 +160,3 @@ echo -e "${Red}Jangan lupa mengganti settingan Adapter Windows untuk DNS diarahk
 rm $0
 echo -e "${Blue}Thanks for using my Services${NC}"
 echo -e "${Blue}-R${NC}"
-
-
